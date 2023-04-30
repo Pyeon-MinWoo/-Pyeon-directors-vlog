@@ -2,7 +2,7 @@ import numpy as np
 import cv2 as cv
 
 # The given video and calibration data
-input_file = 'C:/Users/pyeonmu/Desktop/lee.mp4'
+input_file = 'C:/Users/pyeonmu/Desktop/Pyeon-directors-vlog/data/chessboard.mp4'
 K = np.array([[958.94884136, 0, 572.25745102],
               [0, 958.51653746, 901.36955821],
               [0, 0, 1]])
