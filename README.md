@@ -8,5 +8,4 @@ Calibration techniques with the pyeon director's.
  [0.00000000e+00 7.21263824e+02 1.02433303e+03]
  [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
 * Distortion coefficient (k1, k2, p1, p2, k3, ...) = [-0.00109287  0.00534909 -0.00237537  0.00199207 -0.00661981]
-
 ![](./Assignment33.PNG "스크린샷")
